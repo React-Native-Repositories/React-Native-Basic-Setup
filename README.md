@@ -1,4 +1,21 @@
-# RN Basic Setup ( Light & Dark Mode, Responsive Setup for All Screens, Langauge Translation, Folder Architecture, SVG Rendering and Apollo-Graphql Setup)
+# React Native Basic Setup
+
+# Features:
+
+:white_check_mark:  Folder Architecture.
+
+:white_check_mark:  Stack, Tab and Drawer Navigation.
+
+:white_check_mark:  Font and Size Responsive Design for all mobile screens.
+
+:white_check_mark: Light and Dark Mode.
+
+:white_check_mark: SVG Images Rendering.
+
+:white_check_mark: Language Translation.
+
+:white_check_mark: GraphQL Setup.
+
 
 # Step 1
 
